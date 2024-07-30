@@ -27,10 +27,10 @@
   <a href="https://www.linkedin.com/in/yosri-meysare-1b929220a/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/yosri-meysera /"target="_blank">
+  <a href="https://www.instagram.com/https://www.instagram.com/yosri_meysera?igsh=N3NqcGdlc2h2YmZ1&utm_source=qr/"target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:yosrimeysera27@gmail.com.com">
     <img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
