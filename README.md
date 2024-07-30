@@ -33,11 +33,22 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-<h3 align="center">Recent Activity:</h3>
-<ul>
-  <li>Contributed to <a href="#">Open Source Project</a></li>
-  <li>Published <a href="#">Blog Post</a> on latest Flutter techniques</li>
-</ul>
+<h3 align="center">Languages Usage:</h3>
+
+<div style="width: 80%; margin: auto;">
+  <div style="background-color: #e0e0e0; border-radius: 25px; padding: 10px;">
+    <div style="width: 25%; background-color: #f1e05a; padding: 10px; border-radius: 25px; text-align: center; color: white;">HTML 25%</div>
+  </div>
+  <div style="background-color: #e0e0e0; border-radius: 25px; padding: 10px; margin-top: 10px;">
+    <div style="width: 25%; background-color: #563d7c; padding: 10px; border-radius: 25px; text-align: center; color: white;">CSS 25%</div>
+  </div>
+  <div style="background-color: #e0e0e0; border-radius: 25px; padding: 10px; margin-top: 10px;">
+    <div style="width: 20%; background-color: #f1e05a; padding: 10px; border-radius: 25px; text-align: center; color: white;">JavaScript 20%</div>
+  </div>
+  <div style="background-color: #e0e0e0; border-radius: 25px; padding: 10px; margin-top: 10px;">
+    <div style="width: 30%; background-color: #00B4AB; padding: 10px; border-radius: 25px; text-align: center; color: white;">Dart 30%</div>
+  </div>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Yosri's GitHub stats"/>
