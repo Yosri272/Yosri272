@@ -9,6 +9,16 @@
   I'm a skilled Flutter developer offering technical app development talent, with a proven history of creating high-quality, cross-platform apps. My experience includes Firebase integration, REST API integration, and using cloud-based services. I am committed to staying on top of the latest technology trends and consistently delivering great results for clients. Let's collaborate to turn vision projects into reality! ✨
 </p>
 
+<h3 align="center">Laravel Expertise:</h3>
+<p align="center">
+  I have extensive experience in building robust applications with Laravel. My expertise includes:
+</p>
+<ul>
+  <li><strong>REST API Integration:</strong> Designing and integrating RESTful APIs to enable seamless communication between different services and applications.</li>
+  <li><strong>Cloud-Based Services:</strong> Leveraging cloud platforms to enhance scalability, performance, and reliability of applications.</li>
+  <li><strong>Database Management:</strong> Proficient in working with various databases, including MySQL, PostgreSQL, and SQLite, to ensure efficient data management and retrieval.</li>
+</ul>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
@@ -46,3 +56,10 @@
   <img src="https://img.shields.io/badge/Bootstrap-75%25-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Yosri's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
