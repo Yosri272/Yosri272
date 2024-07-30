@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="background: linear-gradient(to right, #FF5F6D, #FFC371); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Hi 👋, I'm Yosri Meysera</span>
+  <span style="font-size: 3em; font-weight: bold; background: linear-gradient(45deg, #FF6F61, #D5AAFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">Hi 👋, I'm Yosri Meysera</span>
 </h1>
 <h3 align="center">🧑🏽‍💻 Expert Laravel Developer || Flutter Developer || App Developer</h3>
 
