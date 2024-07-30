@@ -2,6 +2,10 @@
 <h3 align="center">🧑🏽‍💻 Expert Laravel Developer || Flutter Developer || App Developer</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
+</p>
+
+<p align="center">
   I'm a skilled Flutter developer offering technical app development talent, with a proven history of creating high-quality, cross-platform apps. My experience includes Firebase integration, REST API integration, and using cloud-based services. I am committed to staying on top of the latest technology trends and consistently delivering great results for clients. Let's collaborate to turn vision projects into reality! ✨
 </p>
 
@@ -62,3 +66,11 @@
   <li>Contributed to <a href="#">Open Source Project</a></li>
   <li>Published <a href="#">Blog Post</a> on latest Flutter techniques</li>
 </ul>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Yosri's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
