@@ -16,6 +16,9 @@
   <li><strong>Cloud-Based Services:</strong> Leveraging cloud platforms to enhance scalability, performance, and reliability of applications.</li>
   <li><strong>Database Management:</strong> Proficient in working with various databases, including MySQL, PostgreSQL, and SQLite, to ensure efficient data management and retrieval.</li>
 </ul>
+
+<h3 align="center">Flutter Expertise:</h3>
+
 <p align="center">
   I'm a skilled Flutter developer offering technical app development talent, with a proven history of creating high-quality, cross-platform apps. My experience includes Firebase integration, REST API integration, and using cloud-based services. I am committed to staying on top of the latest technology trends and consistently delivering great results for clients. Let's collaborate to turn vision projects into reality! ✨
 </p>
