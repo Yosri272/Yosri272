@@ -33,34 +33,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-<h3 align="center">Featured Projects:</h3>
-<ul>
-  <li>
-    <strong>Project Name 1</strong>
-    <ul>
-      <li><strong>Description:</strong> Brief description of what this project does.</li>
-      <li><strong>Technologies:</strong> Flutter, Firebase, REST API</li>
-      <li><a href="#">Repository Link</a></li>
-    </ul>
-  </li>
-  <li>
-    <strong>Project Name 2</strong>
-    <ul>
-      <li><strong>Description:</strong> Brief description of what this project does.</li>
-      <li><strong>Technologies:</strong> Laravel, MySQL</li>
-      <li><a href="#">Repository Link</a></li>
-    </ul>
-  </li>
-  <li>
-    <strong>Project Name 3</strong>
-    <ul>
-      <li><strong>Description:</strong> Brief description of what this project does.</li>
-      <li><strong>Technologies:</strong> Flutter, Cloud Services</li>
-      <li><a href="#">Repository Link</a></li>
-    </ul>
-  </li>
-</ul>
-
 <h3 align="center">Recent Activity:</h3>
 <ul>
   <li>Contributed to <a href="#">Open Source Project</a></li>
