@@ -36,23 +36,23 @@
 <h3 align="center">Languages Usage:</h3>
 
 <div style="width: 80%; margin: auto;">
-  <div style="background-color: #e0e0e0; border-radius: 25px; padding: 10px; overflow: hidden;">
-    <div style="width: 75%; background-color: #f1e05a; padding: 10px; border-radius: 25px; text-align: center; color: white; animation: grow 2s ease-in-out;">
+  <div style="background-color: #e0e0e0; border-radius: 25px; padding: 10px; overflow: hidden; margin-bottom: 10px;">
+    <div style="width: 75%; background-color: #f1e05a; padding: 10px; border-radius: 25px; text-align: center; color: white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
       HTML 75%
     </div>
   </div>
-  <div style="background-color: #e0e0e0; border-radius: 25px; padding: 10px; margin-top: 10px; overflow: hidden;">
-    <div style="width: 75%; background-color: #563d7c; padding: 10px; border-radius: 25px; text-align: center; color: white; animation: grow 2s ease-in-out;">
+  <div style="background-color: #e0e0e0; border-radius: 25px; padding: 10px; overflow: hidden; margin-bottom: 10px;">
+    <div style="width: 75%; background-color: #563d7c; padding: 10px; border-radius: 25px; text-align: center; color: white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
       CSS 75%
     </div>
   </div>
-  <div style="background-color: #e0e0e0; border-radius: 25px; padding: 10px; margin-top: 10px; overflow: hidden;">
-    <div style="width: 75%; background-color: #f1e05a; padding: 10px; border-radius: 25px; text-align: center; color: white; animation: grow 2s ease-in-out;">
+  <div style="background-color: #e0e0e0; border-radius: 25px; padding: 10px; overflow: hidden; margin-bottom: 10px;">
+    <div style="width: 75%; background-color: #f1e05a; padding: 10px; border-radius: 25px; text-align: center; color: white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
       JavaScript 75%
     </div>
   </div>
-  <div style="background-color: #e0e0e0; border-radius: 25px; padding: 10px; margin-top: 10px; overflow: hidden;">
-    <div style="width: 75%; background-color: #00B4AB; padding: 10px; border-radius: 25px; text-align: center; color: white; animation: grow 2s ease-in-out;">
+  <div style="background-color: #e0e0e0; border-radius: 25px; padding: 10px; overflow: hidden; margin-bottom: 10px;">
+    <div style="width: 75%; background-color: #00B4AB; padding: 10px; border-radius: 25px; text-align: center; color: white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
       Dart 75%
     </div>
   </div>
@@ -65,10 +65,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
-<style>
-  @keyframes grow {
-    from { width: 0%; }
-    to { width: 75%; }
-  }
-</style>
