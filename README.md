@@ -35,28 +35,12 @@
 
 <h3 align="center">Languages Usage:</h3>
 
-<div style="width: 80%; margin: auto;">
-  <div style="background-color: #e0e0e0; border-radius: 25px; padding: 10px; overflow: hidden; margin-bottom: 10px;">
-    <div style="width: 75%; background-color: #f1e05a; padding: 10px; border-radius: 25px; text-align: center; color: white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-      HTML 75%
-    </div>
-  </div>
-  <div style="background-color: #e0e0e0; border-radius: 25px; padding: 10px; overflow: hidden; margin-bottom: 10px;">
-    <div style="width: 75%; background-color: #563d7c; padding: 10px; border-radius: 25px; text-align: center; color: white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-      CSS 75%
-    </div>
-  </div>
-  <div style="background-color: #e0e0e0; border-radius: 25px; padding: 10px; overflow: hidden; margin-bottom: 10px;">
-    <div style="width: 75%; background-color: #f1e05a; padding: 10px; border-radius: 25px; text-align: center; color: white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-      JavaScript 75%
-    </div>
-  </div>
-  <div style="background-color: #e0e0e0; border-radius: 25px; padding: 10px; overflow: hidden; margin-bottom: 10px;">
-    <div style="width: 75%; background-color: #00B4AB; padding: 10px; border-radius: 25px; text-align: center; color: white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-      Dart 75%
-    </div>
-  </div>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-75%25-yellow?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-75%25-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-75%25-yellowgreen?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Dart-75%25-00B4AB?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Yosri's GitHub stats"/>
