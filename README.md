@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="font-size: 3em; font-weight: bold; background: linear-gradient(45deg, #FF6F61, #D5AAFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">Hi 👋, I'm Yosri Meysera</span>
+  <span style="font-size: 3em; font-weight: bold; background: linear-gradient(45deg, #FF6F61, #D5AAFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Hi 👋, I'm Yosri Meysera</span>
 </h1>
 <h3 align="center">🧑🏽‍💻 Expert Laravel Developer || Flutter Developer || App Developer</h3>
 
@@ -27,16 +27,10 @@
   <a href="https://www.linkedin.com/in/yosri-meysare-1b929220a/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-‹/a>
-<a href="https://
-www.instagram.com/your-instagram-
-profile/" target="_blank">
-<img align="center"
-src="https://img.shields.io/badge/-
-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=whit
-e" alt="Instagram" />
-</a>
-  <a href="mailto:yosrimeysera27@gmail.com">
+  <a href="https://www.instagram.com/your-instagram-profile/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:your-email@example.com">
     <img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
