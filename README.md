@@ -18,14 +18,13 @@
 </ul>
 
 <h3 align="center">Flutter Expertise:</h3>
-
 <p align="center">
   I'm a skilled Flutter developer offering technical app development talent, with a proven history of creating high-quality, cross-platform apps. My experience includes Firebase integration, REST API integration, and using cloud-based services. I am committed to staying on top of the latest technology trends and consistently delivering great results for clients. Let's collaborate to turn vision projects into reality! ✨
 </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/yosri-meysare-1b929220a/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/your-twitter-profile" target="_blank">
@@ -49,7 +48,6 @@
 </p>
 
 <h3 align="center">Languages Usage:</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-75%25-yellow?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-75%25-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
