@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/Dart-75%25-00B4AB?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/PHP-75%25-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/XML-75%25-0060F2?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
+  <img src="https://img.shields.io/badge/Bootstrap-75%25-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
 <p align="center">
